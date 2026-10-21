@@ -1,0 +1,38 @@
+
+# Bookshelf API
+
+RESTful API untuk mengelola data buku menggunakan
+Node.js dan Express.js.
+
+## Fitur
+
+- Menambahkan buku (POST)
+- Menampilkan seluruh buku (GET)
+- Menampilkan detail buku (GET)
+- Memperbarui data buku (PUT)
+- Menghapus buku (DELETE)
+- Filter berdasarkan nama, reading, dan finished
+
+## Teknologi
+
+- Node.js
+- Express.js
+- Nanoid
+- Postman
+
+## Menjalankan Proyek
+
+1. Clone repository ini.
+2. Jalankan `npm install`.
+3. Jalankan `npm start`.
+4. Server berjalan di http://localhost:9000.
+
+## Hasil Pengujian
+
+Bookshelf API Test Collection (Dicoding):
+104 Tests Passed, 0 Failed.
+
+## Informasi
+
+Proyek pembelajaran Back-End Developer
+melalui program Dicoding.
